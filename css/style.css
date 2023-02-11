@@ -18,6 +18,7 @@ h1, h2, p {
 
 .tea-menu {
     width: 80%;
+    max-width: 500px;
     background-color: rgb(228, 202, 168, 0.404);
     /* background-color: orangered; */
     margin-left: auto;
@@ -32,21 +33,25 @@ h1, h2, p {
 .tea-items p{
     /* background-color: orangered; */
     display: inline-block;
-
+    font-weight:  400;
 }
 
 .tea-flavor, .collection-flavor {
     width: 75%;
-    background-color: green;
+    /* background-color: green; */
     text-align: left;
 }
 
 .tea-price, .collection-price {
     width: 25%;
-    background-color: yellow;
+    /* background-color: yellow; */
     text-align: right;
 }
 
 /* .collection-price {
 font-size: 5rem;   
 } */
+
+.established {
+    font-style: italic;
+}
