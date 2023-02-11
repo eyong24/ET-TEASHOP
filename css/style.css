@@ -8,6 +8,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Roboto', sans-serif;
+    padding:20px;
 }
 
 
@@ -23,6 +24,14 @@ h2{
     font-size: 35px;
 }
 
+.top-line, .bottom line {
+    height: 2px;
+    background-color: rgba(228, 202, 168, 0.904);
+    border-color: rgb(71, 68, 64);
+    box-shadow: -2px 4px 5px 0px rgb(0,0,0,0.75);
+    -webkit-box-shadow: -2px 5px 5px 0px rgb(0,0,0,0.75);
+    -moz-box-shadow: -2px 10px 5px 0px rgb(0,0,0,0.75);
+}
 .tea-menu {
     width: 80%;
     max-width: 500px;
@@ -64,7 +73,8 @@ h2{
 /* .collection-price {
 font-size: 5rem;   
 } */
-hr {
+/* hr {
     height: 2px;
-    background-color: rgb(228, 202, 168, 0.904);
-}
+    background-color: rgba(228, 202, 168, 0.904);
+    border-color: rgb(71, 68, 64)
+} */
