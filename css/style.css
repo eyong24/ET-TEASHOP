@@ -87,4 +87,21 @@ font-size: 5rem;
     background-color: rgba(228, 202, 168, 0.904);
     border-color: rgb(71, 68, 64)
 } */
-footer{font-size: 14px;}
+footer{
+    font-size: 14px;
+}
+
+a{
+    color: black;
+}
+
+a:visited{
+    color:white
+}
+
+a:hover{
+    color: lightgray;
+}
+a:active{
+    color:yellow
+}
