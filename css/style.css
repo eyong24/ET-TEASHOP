@@ -12,7 +12,7 @@ body {
     background-repeat: no-repeat;
 }
 
-div {
+.tea-menu{
     width: 80%;
     background-color: rgb(228, 202, 168);
     /* background-color: orangered; */
