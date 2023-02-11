@@ -24,6 +24,14 @@ h2{
     font-size: 35px;
 }
 
+.top-line{
+    margin-top: 25px;
+}
+
+.bottom-line{
+    margin-top: 25px;
+}
+
 .top-line, .bottom line {
     height: 2px;
     background-color: rgba(228, 202, 168, 0.904);
@@ -50,6 +58,7 @@ h2{
     /* background-color: orangered; */
     display: inline-block;
     font-weight:  400;
+    margin:5px 0px;
 }
 
 
@@ -78,3 +87,4 @@ font-size: 5rem;
     background-color: rgba(228, 202, 168, 0.904);
     border-color: rgb(71, 68, 64)
 } */
+footer{font-size: 14px;}
