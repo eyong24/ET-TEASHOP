@@ -15,6 +15,13 @@ h1, h2, p {
     text-align: center;
 }
 
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 35px;
+}
 
 .tea-menu {
     width: 80%;
@@ -36,6 +43,12 @@ h1, h2, p {
     font-weight:  400;
 }
 
+
+.established {
+    font-style: italic;
+}
+
+
 .tea-flavor, .collection-flavor {
     width: 75%;
     /* background-color: green; */
@@ -51,7 +64,3 @@ h1, h2, p {
 /* .collection-price {
 font-size: 5rem;   
 } */
-
-.established {
-    font-style: italic;
-}
