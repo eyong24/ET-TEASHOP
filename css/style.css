@@ -29,8 +29,8 @@ text-align: left;
     text-align: right;
     }
 
-.tea-items {
+.tea-items p{
     background-color: orangered;
-    display:inline-block
+    display:inline-block;
 
 }
