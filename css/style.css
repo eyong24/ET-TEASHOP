@@ -1,8 +1,5 @@
-h1,
-h2,
-p {
-    text-align: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+
 
 body {
     /* background-color: rgb(228, 202, 168); */
@@ -10,7 +7,16 @@ body {
     /* background-image: url('https://github.com/KodeGo-Bootcamp/HTML-Activity-Images/blob/main/rodrigoBonzerrLopez-tea-icon.png?raw=true'); */
     background-size: cover;
     background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
 }
+
+
+h1,
+h2,
+p {
+    text-align: center;
+}
+
 
 .tea-menu {
     width: 80%;
